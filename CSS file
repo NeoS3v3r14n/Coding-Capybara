@@ -1,0 +1,21 @@
+body{
+    background: #ff9212;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.box-container{
+    display: flex;
+    justify-content: left;
+    color: ghostwhite;
+    background: #653C25;
+
+}
+
+.navbar-item {
+    padding-left: 50px;
+    padding-top: 20px;
+    color: ghostwhite;
+    font-size: 20px;
+}

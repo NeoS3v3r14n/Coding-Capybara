@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="main.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Capybara</title>
+</head>
+<body>
+    
+    <div class="box-container">
+        <h2>
+            Coding Capybara
+        </h2>
+
+        <a class="navbar-item" href="home.html">
+            Home
+        </a>
+        <a class="navbar-item" href="page1.html">
+            Courses
+        </a>
+        <a class="navbar-item">
+            ...
+        </a>
+
+    </div>
+        
+    
+</body>
+</html>
